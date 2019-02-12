@@ -1,4 +1,4 @@
-{
+ {
 	"name": "Styrokai+=2",
 	"type": "dark",
 	"tokenColors": [
@@ -205,7 +205,7 @@
 		"list.activeSelectionBackground": "#111132",
 		"list.activeSelectionForeground": "#e4e4e4",
 		"list.dropBackground": "#000000",
-		"list.errorForeground": "#fad325",
+		"list.errorForeground": "#ff4040",
 		"list.focusBackground": "#222222",
 		"list.focusForeground": "#e4e4e4",
 		"list.highlightForeground": "#495288",
@@ -215,7 +215,7 @@
 		"list.inactiveSelectionBackground": "#111132",
 		"list.inactiveSelectionForeground": "#e4e4e4",
 		"list.invalidItemForeground": "#e4e4e4",
-		"list.warningForeground": "#ff4040",
+		"list.warningForeground": "#fad325",
 		"selection.background": "#53717a",
 		"sideBar.background": "#000000",
 		"sideBar.foreground": "#fafafa",

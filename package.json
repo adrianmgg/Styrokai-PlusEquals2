@@ -1,11 +1,11 @@
 {
-    "name": "styrokai-plusplus",
-    "displayName": "Styrokai++",
-    "description": "Styrokai, with some improvements.",
-    "publisher": "kepler0",
+    "name": "styrokai-plusequals2",
+    "displayName": "Styrokai+=2",
+    "description": "Styrokai, with some more improvements.",
+    "publisher": "amgg",
     "repository": {
         "type": "git",
-        "url": "https://github.com/notAlaanor/Styrokai-PlusPlus.git"
+        "url": "https://github.com/adrianmgg/Styrokai-PlusEquals2.git"
     },
     "keywords": [
         "dark",
@@ -19,7 +19,7 @@
         "color": "#000000",
         "theme": "dark"
     },
-    "version": "0.2.0",
+    "version": "0.0.1",
     "engines": {
         "vscode": "^1.30.0"
     },
@@ -29,9 +29,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Styrokai++",
+                "label": "Styrokai+=2",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Styrokai++-color-theme.json"
+                "path": "./themes/Styrokai+=2-color-theme.json"
             }
         ]
     }
