@@ -205,7 +205,6 @@
 		"list.activeSelectionBackground": "#111132",
 		"list.activeSelectionForeground": "#e4e4e4",
 		"list.dropBackground": "#000000",
-		"list.errorForeground": "#ff4040",
 		"list.focusBackground": "#222222",
 		"list.focusForeground": "#e4e4e4",
 		"list.highlightForeground": "#495288",
@@ -215,7 +214,6 @@
 		"list.inactiveSelectionBackground": "#111132",
 		"list.inactiveSelectionForeground": "#e4e4e4",
 		"list.invalidItemForeground": "#e4e4e4",
-		"list.warningForeground": "#fad325",
 		"selection.background": "#53717a",
 		"sideBar.background": "#000000",
 		"sideBar.foreground": "#fafafa",
@@ -248,6 +246,14 @@
 		"editorHoverWidget.background": "#0a0a0a",
 		"editorHoverWidget.border": "#1b1b1b",
 		"debugToolBar.background": "#000000",
-		"debugToolBar.border": "#1b1b1b"
+		"debugToolBar.border": "#1b1b1b",
+		// Errors
+		"list.errorForeground": "#ff4040",
+		"editorError.foreground": "#ff4040",
+		// Warnings
+		"list.warningForeground": "#ff9100",
+		"editorWarning.foreground": "#ff9100",
+		// Infos
+		"editorInfo.foreground": "#ffee00",
 	}
 }
